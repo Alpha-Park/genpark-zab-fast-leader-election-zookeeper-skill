@@ -1,0 +1,13 @@
+{
+  "name": "genpark-zab-fast-leader-election-zookeeper-skill",
+  "version": "1.0.0",
+  "description": "ZooKeeper Atomic Broadcast (Zab) Fast Leader Election protocol resolving epochs, ZXID transaction counters, and majority quorum vote updates.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "zab-protocol",
+    "zookeeper",
+    "fast-leader-election",
+    "atomic-broadcast"
+  ]
+}
